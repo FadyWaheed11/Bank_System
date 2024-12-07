@@ -1,0 +1,4 @@
+Account is created with initial balance of 1000.0
+Deposit operation with amount of 2000.0
+Deposit operation with amount of 2500.0
+Withdrawing operation with amount of 2300.0
